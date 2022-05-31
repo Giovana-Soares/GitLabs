@@ -1,6 +1,8 @@
 # GitLabs
 
+
 ## Operações 
 - somar 
 - subtair 
-- multiplicar;
+- multiplicar
+- dividir
